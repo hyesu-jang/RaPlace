@@ -1,7 +1,19 @@
 # RaPlace
-This is the code for RaPlace, Currently accepted [IROS2023]
+
+## NEWS (June, 2023): RaPlace is accepted for IROS2023!
+- Our radar place recognition algorithm RaPlace is accepted for IROS 2023. 
+  [![RaPlace Video](http://img.youtube.com/vi/wMWdVi6WZdQ/0.jpg)](https://youtu.be/wMWdVi6WZdQ=0s)
+
+## Release Plan
+- [2023/07/31] Simple base codes and example codes will be uploaded
+- [2023/10/01] Extension codes will be uploaded
 
 
-Code will be released soon.
+## Acknowledgment
+This work was supported by the Technology Innovation Program (or Industrial Strategic Technology Development Program - Mobility and Connectivity Platform for Digital Transformation Acceleration in Unmanned Delivery) (20024355, Development of autonomous driving connectivity technology based on sensor-infrastructure cooperation) funded By the Ministry of Trade, Industry & Energy(MOTIE, Korea)
 
-[![RaPlace Video](http://img.youtube.com/vi/wMWdVi6WZdQ/0.jpg)](https://youtu.be/wMWdVi6WZdQ=0s)
+## Contact
+If you have any questions, contact here please
+ ```
+ dortz@snu.ac.kr
+ ```
