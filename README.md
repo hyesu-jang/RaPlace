@@ -5,8 +5,9 @@
   [![RaPlace Video](http://img.youtube.com/vi/wMWdVi6WZdQ/0.jpg)](https://youtu.be/wMWdVi6WZdQ=0s)
 
 ## Release Plan
-- [2023/07/31] Simple base codes and example codes will be uploaded
-- [2023/10/01] Extension codes will be uploaded
+- [2023/07/31] ~~Simple base codes and example codes will be uploaded~~
+- [2023/08/31] Simple Python codes will be uploaded
+- [2023/10/01] Full codes and extension with cpp will be uploaded
 
 
 ## Acknowledgment
