@@ -32,6 +32,8 @@ The possible warnings can be listed as follows:
 
 <img width="547" alt="image" src="https://github.com/baorrr2020/RaPlace/assets/142761589/80644b9b-5b97-418a-a5b7-a1b33d607fef">
 
+# Contact
+
 If you have any questions about the python code, please contact me through sending e-mail to 
         
     mibh2020@163.com
