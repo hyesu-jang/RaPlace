@@ -6,7 +6,7 @@
 
 ## Release Plan
 - [2023/07/31] ~~Simple base codes and example codes will be uploaded~~
-- [2023/08/31] Simple Python codes will be uploaded
+- [2023/08/31] ~~Simple Python codes will be uploaded~~
 - [2023/10/01] Full codes and extension with cpp will be uploaded
 
 
@@ -16,5 +16,5 @@ This work was supported by the Technology Innovation Program (or Industrial Stra
 ## Contact
 If you have any questions, contact here please
  ```
- dortz@snu.ac.kr
+ dortz at snu dot ac dot kr
  ```
